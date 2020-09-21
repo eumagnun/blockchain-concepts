@@ -1,2 +1,2 @@
 # blockchain-concepts
-Simples JS project with blockchain concepts
+Simples Node project with blockchain concepts
